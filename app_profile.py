@@ -14,7 +14,7 @@ st.title("Researcher Profile Page")
 # Collect basic information
 name = "Mr Tlhompo Llale"
 field = "Data Science"
-institution = "Coding Summer School 2025"
+institution = "Coding Summer School"
 
 # Display basic profile information
 st.header("Researcher Overview")
