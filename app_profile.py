@@ -16,6 +16,11 @@ name = "Mr Tlhompo Llale"
 field = "Data Science"
 institution = "Coding Summer School 2025"
 
+#My Picture
+
+st.header("Image of the Researcher")
+st.image("mypic.jpg", caption="My Image")
+
 # Display basic profile information
 st.header("Researcher Overview")
 st.write(f"**Name:** {name}")
